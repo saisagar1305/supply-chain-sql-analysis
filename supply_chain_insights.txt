@@ -1,0 +1,56 @@
+PHASE 1 — DATA UNDERSTANDING
+
+Step 1 — Count Total Rows
+Step 2 — View Dataset
+Step 3 — Understand Numeric Columns
+
+PHASE 2 — DATA CLEANING
+
+1. Check NULL Values
+2. Check Duplicate Products
+3. Check Distinct Product Types
+4. Check Invalid Prices
+5. Check Negative Revenue
+6. Check Outliers in Defect Rates
+
+PHASE 3 — EXPLORATORY DATA ANALYSIS (EDA)
+
+SECTION A — REVENUE ANALYSIS
+Q1 Total Revenue
+Q2 Revenue by Product Type
+Q3 Top 10 Revenue Products
+Q4 Average Revenue Per Product
+
+SECTION B — SALES ANALYSIS
+Q5 Most Sold Products
+Q6 Product Type Sales
+Q7 High Revenue but Low Sales
+
+SECTION C — INVENTORY ANALYSIS
+Q8 Low Stock Products
+Q9 Overstocked Products
+Q10 Inventory Risk Analysis
+
+SECTION D — SHIPPING ANALYSIS
+Q11 Average Shipping Cost
+Q12 Shipping Cost by Carrier
+Q13 Shipping Time by Transport Mode
+Q14 Most Efficient Transport Mode
+
+SECTION E — SUPPLIER ANALYSIS
+Q15 Revenue by Supplier
+Q16 Supplier Defect Rate
+Q17 Supplier Lead Time
+
+SECTION F — MANUFACTURING ANALYSIS
+Q18 Manufacturing Cost by Product Type
+Q19 Production Volume Analysis
+Q20 Highest Manufacturing Cost Products
+
+PHASE 4 — ADVANCED SQL ANALYSIS
+
+Q21 Revenue Ranking
+Q22 Dense Rank Suppliers
+Q23 Running Revenue Total
+Q24 Above Average Revenue Products
+Q25 Best Product Category
